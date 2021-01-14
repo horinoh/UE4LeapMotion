@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7324D7CF-4455-1A3A-083A-6FA983F00226}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4LeapMotion",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
